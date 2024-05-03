@@ -1,0 +1,8 @@
+:root {
+    --primary: #ff2d29;
+}
+
+.wpcf7-form-control.wpcf7-textarea {
+	height: 50px;
+}
+
